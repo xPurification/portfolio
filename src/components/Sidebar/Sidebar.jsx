@@ -88,14 +88,11 @@ function Sidebar() {
       <aside className={`sidebar ${isMenuOpen ? 'sidebar--open' : ''}`}>
         {/* Logo / Name */}
         <div className="sidebar__header">
-          <div className="sidebar__logo">
-            <span className="sidebar__logo-bracket">[</span>
-            <span className="sidebar__logo-text">DP</span>
-            <span className="sidebar__logo-bracket">]</span>
-          </div>
           <div className="sidebar__name">
+            <span className="sidebar__name-prompt">&gt;</span>
             <span className="sidebar__name-first">Devon</span>
             <span className="sidebar__name-last">Purification</span>
+            <span className="sidebar__name-cursor">_</span>
           </div>
           <span className="sidebar__title">Software Developer & QA Engineer</span>
         </div>
