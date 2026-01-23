@@ -1,12 +1,12 @@
-# CLAUDE.md - Marathon Portfolio v2
+# CLAUDE.md - Portfolio
 
 ## Project Overview
 
-A single-page personal portfolio website for Devon Purification, built with React + Vite. The design is inspired by Bungie's Marathon game aesthetic - featuring high-contrast neon colors on black, HUD-style UI elements, and geometric angular design language.
+A single-page personal portfolio website for Devon Purification, built with React + Vite. The design features high-contrast neon colors on black, HUD-style UI elements, and geometric angular design language.
 
 **Purpose**: Job-seeking portfolio to showcase work experience, projects, and skills.
 
-**Live URL**: Will be deployed to Vercel (free tier)
+**Repository**: https://github.com/xPurification/portfolio
 
 ---
 
@@ -41,7 +41,7 @@ npm run lint         # Run ESLint
 ## Project Architecture
 
 ```
-marathon-portfolio-v2/
+portfolio/
 ├── CLAUDE.md              # This file - project reference
 ├── PRD.md                 # Product Requirements Document
 ├── progress.txt           # Session progress tracking
@@ -74,11 +74,11 @@ marathon-portfolio-v2/
 
 ## Design System
 
-### Color Palette (Marathon-inspired)
+### Color Palette
 
 ```css
 /* Primary */
---color-lime: #c2fe0c;        /* Marathon lime green - PRIMARY ACCENT */
+--color-lime: #c2fe0c;        /* Lime green - PRIMARY ACCENT */
 --color-white: #ffffff;       /* Primary text */
 
 /* Accents */
@@ -147,5 +147,5 @@ Check `progress.txt` for current project state and what to work on next.
 
 1. **Single-page layout** - All sections scroll vertically, no routing needed
 2. **Left sidebar nav** - Fixed position, collapses on mobile
-3. **No CSS framework** - Custom CSS for full Marathon aesthetic control
+3. **No CSS framework** - Custom CSS for full aesthetic control
 4. **Content in JS file** - Easy to update without touching components
