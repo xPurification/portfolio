@@ -95,9 +95,8 @@ export const projects = [
     github: "https://github.com/xPurification",
     live: null,
     highlights: [
-      "Built autonomous QA agent using Claude API for intelligent test generation",
-      "Implemented intelligent test case prioritization and execution",
-      "Created self-healing test scripts that automatically adapt to UI changes"
+      "Built autonomous QA agent using Claude API that analyzes web applications, generates test cases, and executes automated tests with minimal human intervention",
+      "Implemented intelligent test case prioritization and self-healing test scripts that automatically adapt to UI changes"
     ],
     year: "2026",
     category: "AI/ML Automation",
@@ -105,15 +104,14 @@ export const projects = [
   },
   {
     id: 2,
-    title: "CodeReview Assistant",
-    description: "AI agent that performs automated code reviews using Gemini, analyzing pull requests for bugs, security vulnerabilities, and code quality issues with real-time GitHub integration.",
-    techStack: ["Python", "Gemini API", "GitHub API", "Flask"],
+    title: "AI Code Review Assistant",
+    description: "CLI tool that performs automated code reviews using Gemini, analyzing pull requests and local code for bugs, security vulnerabilities, and code quality issues.",
+    techStack: ["Python", "Gemini API", "GitHub API", "Click"],
     github: "https://github.com/xPurification",
     live: null,
     highlights: [
-      "Developed AI agent for automated code reviews using Gemini",
-      "Analyzes PRs for bugs, security vulnerabilities, and code quality",
-      "Created GitHub webhook integration for real-time feedback on commits"
+      "Developed CLI tool that performs automated code reviews using Gemini, analyzing pull requests and local code for bugs, security vulnerabilities, and code quality issues",
+      "Implemented GitHub API integration to fetch PRs and generate detailed review reports with actionable suggestions"
     ],
     year: "2026",
     category: "AI/ML Automation",
