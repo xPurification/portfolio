@@ -21,12 +21,6 @@ const socialLinks = [
     icon: '◈'
   },
   { 
-    id: 'website', 
-    label: 'Website', 
-    url: 'https://purification.sys',
-    icon: '◉'
-  },
-  { 
     id: 'email', 
     label: 'Email', 
     url: 'mailto:devon.purification@gmail.com',
