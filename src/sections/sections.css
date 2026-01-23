@@ -850,7 +850,7 @@
 .education-card__minor {
   font-family: var(--font-mono);
   font-size: var(--text-sm);
-  color: var(--color-purple);
+  color: var(--color-cyan);
   letter-spacing: var(--tracking-wide);
 }
 
