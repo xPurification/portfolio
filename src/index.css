@@ -1,0 +1,8 @@
+/* ============================================================================
+   MAIN STYLESHEET ENTRY
+   ============================================================================
+   Import order: Variables → Global → Component styles loaded via imports
+   ============================================================================ */
+
+@import './styles/variables.css';
+@import './styles/global.css';
