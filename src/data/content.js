@@ -13,7 +13,7 @@ export const profile = {
   phone: "(954) 789-7091",
   linkedin: "linkedin.com/in/devonpurification",
   github: "github.com/xPurification",
-  website: "purification.sys",
+  portfolio: "devon-purification.vercel.app",
   summary: `Software Developer and QA Engineer with 2+ years specializing in full-stack development, AI/ML integration, and test automation. Expert in Python/JavaScript automation frameworks, API testing, and CI/CD pipelines. Proven ability to leverage LLMs for workflow optimization.`,
 };
 

@@ -18,7 +18,7 @@ function Resume() {
           <div className="resume__download">
             <a 
               href="/resume.pdf" 
-              download="Devon_Purification_Resume.pdf"
+              download="devon-purification-resume.pdf"
               className="resume__download-btn"
             >
               <span className="resume__download-icon">↓</span>
