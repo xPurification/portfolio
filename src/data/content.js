@@ -92,7 +92,7 @@ export const projects = [
     title: "SmartQA Agent",
     description: "AI-powered test automation agent using Claude API that analyzes web applications, generates test cases, and executes automated tests with minimal human intervention.",
     techStack: ["Python", "Claude API", "Selenium", "FastAPI"],
-    github: "https://github.com/xPurification",
+    github: "https://github.com/xPurification/smartqa-agent",
     live: null,
     highlights: [
       "Built autonomous QA agent using Claude API that analyzes web applications, generates test cases, and executes automated tests with minimal human intervention",
