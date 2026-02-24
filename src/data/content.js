@@ -107,7 +107,7 @@ export const projects = [
     title: "AI Code Review Assistant",
     description: "CLI tool that performs automated code reviews using Gemini, analyzing pull requests and local code for bugs, security vulnerabilities, and code quality issues.",
     techStack: ["Python", "Gemini API", "GitHub API", "Click"],
-    github: "https://github.com/xPurification",
+    github: "https://github.com/xPurification/ai-code-reviewer",
     live: null,
     highlights: [
       "Developed CLI tool that performs automated code reviews using Gemini, analyzing pull requests and local code for bugs, security vulnerabilities, and code quality issues",
